@@ -6,7 +6,6 @@ AllCops:
     - 'node_modules/**/*'
     - 'config/application.rb'
     - 'vendor/**/*'
-    - 'bin/*'
   NewCops: enable
 
 Naming/VariableNumber:
