@@ -5,8 +5,6 @@ AllCops:
     - 'db/schema.rb'
     - 'node_modules/**/*'
     - 'config/application.rb'
-    - 'Rakefile'
-    - 'config.ru'
     - 'vendor/**/*'
     - 'bin/*'
   NewCops: enable
