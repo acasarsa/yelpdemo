@@ -4,11 +4,11 @@ AllCops:
   Exclude:
     - 'db/schema.rb'
     - 'node_modules/**/*'
-    - 'bin/**'
-    - 'config/**/*'
+    - 'config/application.rb'
     - 'Rakefile'
     - 'config.ru'
     - 'vendor/**/*'
+    - 'bin/*'
   NewCops: enable
 
 Naming/VariableNumber:
